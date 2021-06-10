@@ -2,7 +2,7 @@
 
 ## Description
 This project is a part of the Machine Learning Course provided by Upskill Income Sharing Agreement program with Intelligent Machines. 
-In this competition, different machine learning models were benchmarked on a challenging large-scale dataset. The data contains real-world e-commerce transactions from Vesta. It contains a wide range of features from device type to product features. The competitors were to develop a machine learning model to predict if the transaction is fraud or not fraud. This project targets to improve the efficacy of fraudulent transaction alerts for millions of people around the world, helping hundreds of thousands of businesses reduce their fraud loss and increase their revenue
+An already ended competition dataset has been selected as this project where different machine learning models were benchmarked. The data contains real-world e-commerce transactions from Vesta. It contains a wide range of features from device type to product features. The competitors were to develop a machine learning model to predict if the transaction is fraud or not fraud. This project targets to improve the efficacy of fraudulent transaction alerts for millions of people around the world, helping hundreds of thousands of businesses reduce their fraud loss and increase their revenue
 
 ### Important Links
 [Dataset](https://www.kaggle.com/c/ieee-fraud-detection/data)
