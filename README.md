@@ -8,6 +8,7 @@ In this competition, different machine learning models were benchmarked on a cha
 [Dataset](https://www.kaggle.com/c/ieee-fraud-detection/data)
 
 ## Getting Started
+The main challenge of this project is the gigantic amount of features and it's difficult to remove the unnecessary features where we don't know which factors to consider while choosing features. Training the machine learning models on these all features will waste a lot of time and obviously won't obtain better score. The main starting point should be data exploration, data cleaning, dealing with the null values, feature engineering.
 
 ### Dependencies
 
@@ -22,7 +23,7 @@ Environment: Kaggle Notebook
 
 ## Help
 
-If you face difficulties running the model on your local machine or Google Colab Notebook, then check if you are running the Kernel on CPU or GPU. If you're running on CPU, change the runtime to GPU. I ran this notebook with 4 GB RAM, 2.4 GHz Intel(R) Core(TM) i3 CPU. I faced a lot of difficulties including sudden shutdown duw to overheating, running out of my resources, etc. Kaggle environment worked well for me.
+If you face difficulties running the model on your local machine or Google Colab Notebook, then check if you are running the Kernel on CPU or GPU. If you're running on CPU, change the runtime to GPU. I ran this notebook with 4 GB RAM, 2.4 GHz Intel(R) Core(TM) i3 CPU. I faced a lot of difficulties including sudden shutdown due to overheating, running out of my resources, etc. Kaggle environment worked well for me.
 
 ## Authors
 
