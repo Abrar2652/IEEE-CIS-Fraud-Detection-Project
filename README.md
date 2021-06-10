@@ -13,7 +13,9 @@ The main challenge of this project is the gigantic amount of features and it's d
 ### Dependencies
 
 Programming language: Python
+
 Libraries: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, XGBClassifier
+
 Environment: Kaggle Notebook
 
 ### Executing program
